@@ -58,4 +58,4 @@ srv := http.Server{
 err = srv.ListenAndServeTLS("", "")
 ```
 
-For a complete example see [examples/main.go](examples/main.go) or [main_test.go](main_test.go).
+For a complete example see [the demo-app under examples directory](examples/demo-app) or [main_test.go](main_test.go).

@@ -34,7 +34,7 @@ func main() {
 		w.Write([]byte("welcome"))
 	})
 	srv := http.Server{
-		Addr:      "127.0.0.1:18080",
+		Addr:      "0.0.0.0:18080",
 		Handler:   r,
 		TLSConfig: tlsCfg,
 	}

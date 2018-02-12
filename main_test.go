@@ -1,4 +1,4 @@
-package vaultpki // "import github.com/vtorhonen/go-http-vault-pki"
+package vaultpki // "import github.com/vtorhonen/go-vault-pki"
 
 import (
 	"crypto/x509"

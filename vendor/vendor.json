@@ -1295,5 +1295,5 @@
 			"revisionTime": "2018-02-11T00:29:52Z"
 		}
 	],
-	"rootPath": "github.com/vtorhonen/go-http-vault-pki"
+	"rootPath": "github.com/vtorhonen/go-vault-pki"
 }

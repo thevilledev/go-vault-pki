@@ -1,4 +1,4 @@
-# go-http-vault-pki
+# go-vault-pki
 
 This Go library works as a gateway for any Go service that wants to use Vault PKI for issuing
 certificates. This is especially useful for services that would like to use HTTP/2 in full with

@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-chi/chi"
 	vapi "github.com/hashicorp/vault/api"
-	vaultpki "github.com/vtorhonen/go-http-vault-pki"
+	vaultpki "github.com/vtorhonen/go-vault-pki"
 )
 
 const (
